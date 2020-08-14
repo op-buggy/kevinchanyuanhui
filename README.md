@@ -12,5 +12,6 @@ Here are some ideas to get you started:
 ![work badge](https://img.shields.io/badge/work-hangzhou-green)
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=kevinchanyuanhui.kevinchanyuanhui)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kevinchanyuanhui&show_icons=true&theme=shades-of-purple&line_height=40&count_private=true&time=20200814)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinchanyuanhui&theme=shades-of-purple&show_icons=true&count_private=true&time=20200814)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kevinchanyuanhui&show_icons=true&theme=shades-of-purple&line_height=40&count_private=true&time=20200815)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinchanyuanhui&theme=shades-of-purple&show_icons=true&count_private=true&time=20200815)](https://github.com/anuraghazra/github-readme-stats)
+
