@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 -->
 
-![age badge](https://img.shields.io/badge/age-26-blue)
+![age badge](https://img.shields.io/badge/age-28-blue)
 ![work badge](https://img.shields.io/badge/work-hangzhou-green)
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=kevinchanyuanhui.kevinchanyuanhui)
 
